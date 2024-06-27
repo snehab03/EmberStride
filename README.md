@@ -12,24 +12,6 @@ EmberStride is a feature-rich e-commerce website specializing in footwear. This 
 - **Frameworks:** Node.js, Express.js, BootStrap, Passport.js
 - **Database:** MongoDB with Mongoose
 
-## Project Structure
-
-EmberStride/
-├── public/
-│ ├── css/
-│ │ ├── dark.css
-│ │ ├── login.css
-│ │ └── style.css
-│ └── img/
-├── views/
-├── README.md
-├── app.js
-├── login.html
-├── package-lock.json
-├── package.json
-└── script.js
-
-
 ## Setup Instructions
 
 1. **Clone the repository:**
