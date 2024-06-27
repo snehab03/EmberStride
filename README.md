@@ -16,7 +16,7 @@ EmberStride is a feature-rich e-commerce website specializing in footwear. This 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/EmberStride.git
+   git clone https://github.com/snehab03/EmberStride.git
    cd EmberStride
 2. **Install dependencies:
    ```bash
