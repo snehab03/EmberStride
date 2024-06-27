@@ -6,6 +6,7 @@ EmberStride/
 │ │ └── style.css
 │ └── img/
 ├── views/
+├── Folder Structure.txt
 ├── README.md
 ├── app.js
 ├── login.html
