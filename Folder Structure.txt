@@ -1,0 +1,14 @@
+EmberStride/
+├── public/
+│ ├── css/
+│ │ ├── dark.css
+│ │ ├── login.css
+│ │ └── style.css
+│ └── img/
+├── views/
+├── README.md
+├── app.js
+├── login.html
+├── package-lock.json
+├── package.json
+└── script.js
